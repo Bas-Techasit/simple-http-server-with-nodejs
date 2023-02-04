@@ -1,0 +1,7 @@
+{
+  "name": "simple-http-server-with-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Bas-Techasit <techasit.bas@gmail.com>",
+  "license": "MIT"
+}
